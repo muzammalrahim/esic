@@ -1,0 +1,212 @@
+.search-main-container a {
+    text-decoration: none;
+    transition-duration: 0.4s;
+	color: #4A8CFF;
+}
+
+.search-main-container img {
+    vertical-align: middle;
+}
+
+
+.search-main-container .proposal-card {
+    text-align: left;
+    padding: 0;
+    border: 0;
+    border-radius: 10px;
+    margin-bottom: 34px;
+    box-shadow: 0 1px 2px rgba(43,59,93,.29);
+    position: relative;
+}
+
+.search-main-container .proposal-bnr-block {
+    overflow: hidden;
+    position: relative;
+    border-radius: 12px 12px 0 0;
+}
+.search-main-container .proposal-bnr {
+    min-height: 133px;
+    height: 133px;
+    display: table;
+    width: 100%;
+    vertical-align: middle;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px 12px 0 0;
+}
+.search-main-container  .bg-6 {
+    background: #e4cf48;
+}
+.search-main-container  .proposal-bnr div {
+    vertical-align: middle;
+    width: 100%;
+    display: table-cell;
+}
+
+.search-main-container  .proposal-logo {
+    /*border: 1px solid #eee;*/
+    height: 105px;
+    width: 105px;
+}
+
+.search-main-container .proposal-logo {
+    border-radius: 4px;
+}
+.search-main-container  .proposal-logo {
+    /*border: 1px solid #eee;*/
+    max-height: 90px;
+    max-width: 90px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 4px;
+}
+
+.search-main-container .proposal-card .progress {
+    border-radius: 0;
+    height: 7px;
+    margin: 0;
+    padding: 0;
+}
+.search-main-container .progress {
+    background-color: #b4c3d3;
+}
+
+.search-main-container .profile-complition .progress-bar {
+    position: absolute;
+    overflow: visible;
+    height: 7px;
+    border: 0;
+    box-shadow: 0 0 0 #000;
+}
+.search-main-container .progress-bar-success {
+    background-color: #3bd283;
+}
+.search-main-container .proposal-card .sr-only {
+    display: none;
+}
+.search-main-container .sr-only {
+    font-size: 12px;
+}
+
+.search-main-container .sr-only {
+    width: auto;
+    height: auto;
+    padding: 5px 15px;
+    background: #3BD283;
+    top: -44px;
+    z-index: 1000;
+    color: #fff;
+    clip: auto;
+    border-radius: 4px;
+    right: -45px;
+    overflow: visible;
+    min-width: 100px;
+}
+
+.search-main-container .profile-complition .down {
+    border: 10px solid transparent;
+    border-top-color: #3BD283;
+    position: absolute;
+    bottom: -16px;
+    right: 38%;
+}
+
+.search-main-container .proposal-card .caption {
+    padding: 25px;
+    margin: 0;
+}
+.search-main-container .proposal-card .caption h3 {
+    color: #272730;
+    font-size: 22px;
+    padding: 0 0 2px;
+	margin: 0;
+}
+.search-main-container .proposal-card .caption h3 a {
+    color: #272730;
+}
+.search-main-container .proposal-card .caption p {
+    color: #3D464F;
+    font-size: 14px;
+}
+.search-main-container .proposal-card .caption p.short-summary {
+    padding-top: 6px;
+    color: #4E5460;
+    font-size: 14px;
+    line-height: 1.6em;
+}
+.search-main-container .r-n h4 {
+    padding-bottom: 2px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-family: Myriadpro-Semibold;
+}
+.search-main-container .r-n span {
+    font-size: 14px;
+    color: #4e5460;
+}
+.search-main-container .proposal-card .btn-default {
+    font-size: 12px;
+    padding: 6px 9px;
+	background: transparent;
+}
+.search-main-container .btn-default {
+    color: #b4c3d3;
+    border-color: #b4c3d3;
+}
+
+.search-main-container .proposal-card .ad-label, .ad-label {
+    color: #fff;
+    display: block;
+    text-align: center;
+    top: -12px;
+    left: -46px;
+    font-weight: 600;
+    width: 137px;
+    padding: 38px 0 11px;
+    position: absolute;
+    font-size: 10px;
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    z-index: 99;
+    letter-spacing: 1px;
+}
+
+.search-main-container #p-thumb-wrap .ad-label, .ad-label {
+    color: #fff;
+    display: block;
+    text-align: center;
+    top: -8px;
+    left: -47px;
+    font-weight: 600;
+    width: 137px;
+    padding: 44px 0 11px;
+    position: absolute;
+    font-size: 10px;
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    z-index: 99;
+    letter-spacing: 1px;
+}
+.search-main-container .label-danger {
+    background-color: #d9534f;
+}
+
+.search-main-container .caption > p.short-summary{
+    min-height: 66px;
+    height: 66px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+body .select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    padding: 1px 10px;
+    color: #fff;
+}
+body .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #000;
+}

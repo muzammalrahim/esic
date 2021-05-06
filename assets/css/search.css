@@ -1,0 +1,318 @@
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+
+/*.row.content {
+	height: 1500px
+}*/
+/* Set gray background color and 100% height */
+.search-main-container .sidenav {
+	background-color: #f1f1f1;
+	height: 100%;
+}
+/* Set black background color, white text and some padding */
+ 
+
+.search-main-container .panel-default > .panel-1-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .panel-default > .panel-2-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .panel-default > .panel-3-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .panel-default > .panel-4-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .panel-default > .panel-5-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .panel-default > .panel-6-heading .panel-heading {
+	background: #004f85;
+	color: #fff;
+	font-size: 23px;
+}
+.search-main-container .button_footer2 {
+	width: 37%;
+}
+.search-main-container .button_footer1 {
+	width: 37%;
+}
+.search-main-container .collapse-css .panel-body {
+	color: white;
+	background: #656565;
+	border-top: none !important;
+}
+.search-main-container .panel-heading.heading_css {
+	background: #4a4a4a;
+	color: white;
+	text-decoration: none !important;
+}
+.search-main-container .sidenav {
+	background: #ececec;
+}
+.search-main-container .panel-group {
+	margin-bottom: 0px;
+
+}
+/*
+Commented Out navbar toggle by Haider.
+This was Making Issue with the Page Header.
+*/
+/*
+.navbar-toggle {
+	display: block;
+}*/
+/*End of Haider Comment*/
+
+.search-main-container .overview {
+	text-align: center;
+	color: #cacaca;
+}
+.search-main-container .company {
+	text-align: center;
+	color: #cacaca;
+}
+.search-main-container .funding {
+	text-align: center;
+	color: #cacaca;
+}
+.search-main-container .offers {
+	text-align: center;
+	color: #cacaca;
+}
+.search-main-container .footer_btn1 .btn-info {
+	border: none;
+	background-color: green;
+}
+.search-main-container .footer_btn2 .btn-info {
+	border: none;
+	background-color: #c1c1c1;
+}
+.search-main-container .footer_btn2 {
+	float: right;
+}
+.search-main-container .Header_icon {
+	display: inline-block;
+	margin: auto 19px;
+	font-size: 18px;
+	float: right;
+}
+.search-main-container .footer_icon {
+	padding: 3px 33px 4px 53px;
+	font-size: 24px;
+	display: inline-block;
+}
+.search-main-container .btn_sidenav {
+	margin-top: 27px;
+	width: 203px;
+	height: 41px;
+}
+.search-main-container button.btn.btn-success.account_btn {
+	background-color: #004f85;
+	border: none;
+}
+.search-main-container .side_menu_css {
+	width: 100%;
+}
+.search-main-container .dropdown-menu {
+	width: 100%;
+	position: relative !important;
+	top: 100%;
+	left: 0;
+	z-index: 1000;
+	display: none;
+	float: left;
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,.175) !important;
+	border: none !important;
+	padding: 5px 0;
+}
+.search-main-container .img_sec img {
+	width: 100%;
+}
+.search-main-container .caret {
+	float: right;
+}
+.search-main-container .side_menu_css {
+	text-align: left !important;
+}
+.search-main-container label.label {
+	font-size: 17px;
+	/* display: inline-block; */
+	line-height: 13px;
+	color: #656565;
+	text-shadow: 0 1px 0 #f6f6f6;
+}
+.search-main-container .btn-default {
+	border-radius: 0px !Important;
+}
+.search-main-container .btn-default {
+	/* color: #333; */
+	background-color: #fff;
+	border-bottom: 1px solid #ccc !important;
+	border-color: white !important;
+}
+.search-main-container .right_side {
+	border-top: 9px solid #004f85;
+}
+.search-main-container .left_side {
+	border-top: 9px solid #004f85;
+}
+.search-main-container .cat_caption {
+	background: #0880c7;
+	color: white;
+	padding: 14px 4px 14px 11px;
+	font-size: 24px; 
+	    max-width: 48.5%;
+}
+ 
+.search-main-container .dropdown-menu>li>a {
+	font-size: 19px;
+}
+.search-main-container .left_side h1 {
+    padding: 10px 0 10px 13px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #2c2c2c;
+    border-bottom: 1px solid #d7d7d7;
+    margin-top: 8px;
+    /* padding: 0px; */
+    /* font-size: 23px; */
+    /* font-weight: 700; */
+    /* color: #0073b9; */
+    /* border-bottom: 1px solid #d7d7d7; */
+    /* margin-top: 0px; */
+}
+.search-main-container .right_side h1 {
+    padding: 10px 0 10px 13px;
+    font-size: 23px;
+    font-weight: 700;
+    color: #0073b9;
+    border-bottom: 1px solid #d7d7d7;
+    margin-top: 8px;
+}
+.search-main-container .form-control {
+    display: block;
+    height: 34px !important;
+    padding: 6px 12px !important;
+    font-size: 13px !important;
+    }
+.search-main-container .img_caption {
+    padding: 14px 4px 14px 11px;
+    font-size: 24px;
+}
+.search-main-container .img_describtion {
+    padding: 14px 4px 14px 11px;
+    font-size: 22px;
+}
+		
+    /* On small screens, set height to 'auto' for sidenav and grid */
+ @media screen and (max-width: 767px) {
+	/*	 .footer_icon {
+	 
+	    display: inline-block;
+	    margin: auto -19px;
+	    font-size: 18px;
+	}*/
+	.search-main-container .Header_icon {
+		display: inline-block;
+		margin: auto 5px;
+		font-size: 15px;/* float: left; */
+	}
+	.search-main-container .sidenav {
+		height: auto;
+		padding: 15px;
+	}
+	.search-main-container .row.content {
+		height: auto;
+	}
+}
+
+.search-main-container .boxTag{
+	/*margin-top: 20px;*/
+	padding: 5px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+
+/*CSS Written by Haider*/
+/*above css is mixture of xeshaan and ahsan abbasi*/
+.search-main-container .caption{
+	margin-top:10px;
+}
+.search-main-container .caption > p.webAddress{
+	height: 18px;
+	font-size: 12px !important;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.search-main-container .caption > h3 {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	padding-right:8px !important;
+}
+.search-main-container .caption > h3 > a{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.search-main-container ul.pagination{
+	margin:0px;
+	padding: 0px;
+}
+
+/*Temporary Fix*/
+/*Damn Select2 is not resizing automatically on window resize*/
+.search-main-container .select2{
+	width: 100% !important;
+}
+.search-main-container .right_side{}
+.search-main-container .right-side-row{
+    border-bottom: 1px solid #d7d7d7;
+    /* padding: 10px; */
+}
+.search-main-container .right-side-col-text{
+    /* padding: 0px; */
+    /* margin: 0px; */
+}
+.search-main-container .right-side-col-text h1{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+.search-main-container .right-side-col-pagination{
+    /* margin: 0px; */
+    /* padding: 0px; */
+}
+.search-main-container .left-side-row{}
+.search-main-container .left-side-row-text{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.search-main-container .left-side-row-filter{
+    margin: 0px;
+}
+.search-main-container .right-side .select_option_right{
+	margin-top: 16px;
+}
+body .select2-container .select2-search--inline .select2-search__field{
+    font-size: 12px;
+    padding: 0px 5px;
+}
+input#searchKey {
+	border-radius: 5px;
+	border: 1px solid rgb(170, 170, 170);
+}
